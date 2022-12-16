@@ -13,11 +13,11 @@
 ### What's the difference?
 TLDR; *Faster* version of [spacehuntech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)
 
-- ✨ Completely re-rewring interface.
-- ⚡ Blazing performance.
+- ✨ Completely re-writing the interface
+- ⚡ Blazing performance
 - 🙅‍♂️ No more HTML and JS
 - 👨‍💻 Re-rewritten in C, C++ and Swift
-- 🚿 Async support
-- 🤝 Cross compatible with original repo.
-- 📲 Native iOS app support.
-- ⌚ Native watchOS app support.
+- 🚿 Async command support
+- 🤝 Cross compatible with original repo
+- 📲 Native iOS app support
+- ⌚ Native watchOS app support
